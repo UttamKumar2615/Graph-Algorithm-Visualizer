@@ -6,7 +6,7 @@
 
 ## Why A\* search is the best
 
-A-star (also referred to as A\*) is one of the most successful search algorithms to find the shortest path between nodes or graphs. ... When a search algorithm has the property of optimality , it means it is guaranteed to find the best possible solution .
+A-star (also referred to as A\*) is one of the most successful search algorithms to find the shortest path between nodes or graphs. ... When a search algorithm has the property of optimality , it means it is guaranteed to find the best possible solution.
 
 #### Supported Heuristics
 
