@@ -1,5 +1,5 @@
 {
-  "name": "pathfinder",
+  "name": "Algo visualizer",
   "version": "0.4.5",
   "description": "A project for showing different kinds of pathfinding algorithms",
   "engines": {
@@ -7,8 +7,8 @@
     "npm": ">=6",
     "yarn": ">=1"
   },
-  "author": "Janno Tabamo <jannotabamo@gmail.com> (https://resume.jannomeister.com)",
-  "license": "MIT",
+  "author": "Uttam",
+  "license": "",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
