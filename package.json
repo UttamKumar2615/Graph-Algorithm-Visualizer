@@ -8,7 +8,7 @@
     "yarn": ">=1"
   },
   "author": "Uttam",
-  "license": "",
+  "license": 
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
@@ -29,11 +29,6 @@
     "eject": "react-scripts eject",
     "version": "auto-changelog -p && git add CHANGELOG.md"
   },
-  "husky": {
-    "hooks": {
-      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
-    }
-  },
   "eslintConfig": {
     "extends": "react-app"
   },
@@ -49,18 +44,4 @@
       "last 1 safari version"
     ]
   },
-  "devDependencies": {
-    "@commitlint/cli": "^11.0.0",
-    "@commitlint/config-conventional": "^11.0.0",
-    "auto-changelog": "^2.2.1",
-    "husky": "^4.3.0"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/jannomeister/pathfinder"
-  },
-  "bugs": {
-    "url": "https://github.com/jannomeister/pathfinder/issues"
-  },
-  "homepage": "https://pathfinder.jannomeister.com"
 }
